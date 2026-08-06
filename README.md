@@ -113,3 +113,13 @@ Total Transmitted: 18.42 KB
 Transmission Time: 0.031200 seconds
 Status: SUCCESS
 ```
+
+## Acknowledgements & Open-Source Software
+
+This project builds upon several open-source libraries and pretrained models:
+* [segmentation-models-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch) (BSD 3-Clause License, Copyright (c) 2019, MIT CSAIL Computer Vision)
+* [PyTorch](https://pytorch.org/)
+
+Open Datasets & Benchmarks:
+- [COCO-Stuff Dataset](https://github.com/nightrome/cocostuff) for segmentation and generative reconstruction training.
+- [Kodak Lossless True Color Image Suite](http://r0k.us/graphics/kodak/) for evaluation metrics.
