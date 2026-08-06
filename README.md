@@ -123,3 +123,7 @@ This project builds upon several open-source libraries and pretrained models:
 Open Datasets & Benchmarks:
 - [COCO-Stuff Dataset](https://github.com/nightrome/cocostuff) for segmentation and generative reconstruction training.
 - [Kodak Lossless True Color Image Suite](http://r0k.us/graphics/kodak/) for evaluation metrics.
+
+This work was supported by the following projects: TRUE Wi-Fi PID2024-155470NB-I00 (MICIU/AEI/10,13039/501100011033/FEDER,UE), ICREA Academia 2024 (00077 AGAUR), and MdM CEX2021-001195-M (MICIU/AEI/10.13039/501100011033). 
+<img width="734" height="190" alt="TRUE_WI-FI_PID2024" src="https://github.com/user-attachments/assets/8c5d4dcc-f2a1-43cb-9f1d-c6efe695b5c7" />
+
